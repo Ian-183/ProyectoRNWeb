@@ -7,7 +7,7 @@ export default function App() {
     } else {
       Alert.alert('¡Hola!', 'Mensaje desde un dispositivo Móvil');
     }
-  };
+  };  
 
   return (
     <View style={styles.container}>
